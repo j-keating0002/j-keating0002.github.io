@@ -1,0 +1,22 @@
+body {
+  font-family: 'PT Sans', sans-serif;
+  background-color: pink;
+}
+
+#header {
+  margin-top :30px;
+  text-align: center;
+  letter-spacing: 5px;
+  font-soze: 40 px;
+}
+
+#subheader {
+  margin-top: 5px;
+  text-align: center;
+  font-size: 25px;
+  font-style: italic;
+}
+
+#thumbnail img {
+  
+}
