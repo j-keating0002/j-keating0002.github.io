@@ -1,6 +1,6 @@
 body {
   font-family: 'PT Sans', sans-serif;
-  background-color: #d4aeab;
+  background-color: #dbfaff;
 }
 
 .container {
@@ -10,8 +10,9 @@ body {
 }
 
 #link {
-  background-color: white;
-  color: black;
+  background-color: gray;
+  text-align: center;
+  color: white;
   padding: 15px 6px;
   font-weight: bold;
   font-size: 20px;
